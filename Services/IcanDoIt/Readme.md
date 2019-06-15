@@ -36,6 +36,7 @@ Here is the  [link](https://www.youtube.com/watch?v=y64L-3HKuP0)
 2. Go to the folder where the folder of .exe exist and 
 3. type the Command
 * servicenam.exe uninstall
+.
 
 
 
