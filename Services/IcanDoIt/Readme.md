@@ -1,9 +1,9 @@
 # It is an Demo Service
 ## It is built on Blank console Application
-<p style="font-weight=20px">Thus....<br> 
+
 1. It can be created from scratch
 2. Easy to understand
-</p>
+
 
 ## Requirements 
 ### we need topshelf package to create service. For that 
