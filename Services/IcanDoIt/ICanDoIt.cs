@@ -20,7 +20,10 @@ namespace ServiceDemo
         private void timer_Elapsed(object sender, ElapsedEventArgs e)
         {
             string[] line = new string[] { DateTime.Now.ToString() };
+            //The path given here is hardcoded and can be written in config file instead
+            //AppendAllLines will create file if not exist but path must exist
             File.AppendAllLines(@"E:\practice\C#\services\ICan.txt",line);
+            
         }
 
         public void start()
